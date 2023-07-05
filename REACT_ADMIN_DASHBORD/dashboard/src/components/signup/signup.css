@@ -1,0 +1,33 @@
+.custom .form-control {
+    font-size: 15px !important;
+    font-weight: 600;
+
+}
+
+.formError {
+    color: red !important;
+}
+
+.sign-btn {
+    padding: 4px 180px !important;
+}
+
+.details {
+    color: #0d6efd !important;
+    text-align: center;
+}
+
+.signinn {
+    border: 1px solid #0d6efd !important;
+    box-shadow: 0px 2px 3px 2px #0d6efd;
+
+}
+
+@media only screen and (max-width: 768px) {
+
+
+    .signinn {
+        width: 332px !important;
+    }
+
+}
